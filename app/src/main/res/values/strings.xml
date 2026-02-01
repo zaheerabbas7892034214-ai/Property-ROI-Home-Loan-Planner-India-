@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Property ROI &amp; Home Loan Planner</string>
+    
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_loan_emi">Home Loan EMI</string>
+    <string name="nav_rental_yield">Rental Yield</string>
+    <string name="nav_roi_projection">ROI Projection</string>
+    <string name="nav_compare">Compare Scenarios</string>
+    <string name="nav_export">Export Report</string>
+    <string name="nav_settings">Settings</string>
+    
+    <!-- Home Screen -->
+    <string name="home_title">Property ROI Planner</string>
+    <string name="home_quick_start">Quick Start</string>
+    <string name="home_saved_scenarios">Saved Scenarios</string>
+    <string name="home_go_pro">Upgrade to Pro</string>
+    <string name="home_no_scenarios">No saved scenarios yet</string>
+    
+    <!-- EMI Calculator -->
+    <string name="emi_title">Home Loan EMI Calculator</string>
+    <string name="emi_principal">Principal Amount (₹)</string>
+    <string name="emi_rate">Interest Rate (% p.a.)</string>
+    <string name="emi_tenure">Loan Tenure (Years)</string>
+    <string name="emi_calculate">Calculate EMI</string>
+    <string name="emi_monthly_emi">Monthly EMI</string>
+    <string name="emi_total_interest">Total Interest</string>
+    <string name="emi_total_payment">Total Payment</string>
+    <string name="emi_amortization">Amortization Schedule</string>
+    
+    <!-- Rental Yield Calculator -->
+    <string name="yield_title">Rental Yield Calculator</string>
+    <string name="yield_property_price">Property Price (₹)</string>
+    <string name="yield_monthly_rent">Monthly Rent (₹)</string>
+    <string name="yield_maintenance">Annual Maintenance (₹)</string>
+    <string name="yield_tax">Property Tax (₹)</string>
+    <string name="yield_calculate">Calculate Yield</string>
+    <string name="yield_gross">Gross Rental Yield</string>
+    <string name="yield_net">Net Rental Yield</string>
+    
+    <!-- ROI Projection -->
+    <string name="roi_title">ROI Projection Calculator</string>
+    <string name="roi_property_value">Property Value (₹)</string>
+    <string name="roi_appreciation">Annual Appreciation (%)</string>
+    <string name="roi_rent_escalation">Rent Escalation (%)</string>
+    <string name="roi_vacancy">Vacancy Rate (%)</string>
+    <string name="roi_maintenance_cost">Maintenance Cost (%)</string>
+    <string name="roi_stamp_duty">Stamp Duty &amp; Registration (₹)</string>
+    <string name="roi_calculate">Calculate ROI</string>
+    <string name="roi_projection_title">Net Worth Timeline</string>
+    <string name="roi_irr">IRR (Internal Rate of Return)</string>
+    
+    <!-- Pro Features -->
+    <string name="pro_title">Upgrade to Pro</string>
+    <string name="pro_price">₹349 (One-time)</string>
+    <string name="pro_feature_1">Export PDF Reports</string>
+    <string name="pro_feature_2">Save Unlimited Scenarios</string>
+    <string name="pro_feature_3">Compare Scenarios Side-by-Side</string>
+    <string name="pro_feature_4">Advanced Projections</string>
+    <string name="pro_purchase">Purchase Pro</string>
+    <string name="pro_restore">Restore Purchase</string>
+    <string name="pro_owned">You already own Pro!</string>
+    
+    <!-- Export -->
+    <string name="export_title">Export Report</string>
+    <string name="export_select_scenario">Select Scenario to Export</string>
+    <string name="export_generate_pdf">Generate PDF</string>
+    <string name="export_share">Share Report</string>
+    <string name="export_success">Report exported successfully</string>
+    
+    <!-- Compare -->
+    <string name="compare_title">Compare Scenarios</string>
+    <string name="compare_select_first">Select First Scenario</string>
+    <string name="compare_select_second">Select Second Scenario</string>
+    <string name="compare_start">Start Comparison</string>
+    
+    <!-- Settings -->
+    <string name="settings_title">Settings</string>
+    <string name="settings_restore_purchase">Restore Purchase</string>
+    <string name="settings_about">About</string>
+    <string name="settings_version">Version 1.0</string>
+    
+    <!-- Common -->
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="scenario_name">Scenario Name</string>
+    <string name="enter_scenario_name">Enter scenario name</string>
+    <string name="loading">Loading...</string>
+    <string name="error_occurred">An error occurred</string>
+    <string name="success">Success</string>
+</resources>
